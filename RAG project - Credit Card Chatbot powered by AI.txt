@@ -1,0 +1,5 @@
+RAG project
+Credit Card AI Assistant - Powered by AI
+
+URL - http://localhost:8503/
+python -m streamlit run app.py
